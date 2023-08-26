@@ -1,5 +1,3 @@
-# Final Project 
-
 # Introduction 
 The goal behind this final project was to create a fully functional website to further our knowledge in web development. This was the first ever website I ever made, and I did it in my Software Dev 2 class. This project helped understand the main elements of how most social media websites function with the help and guidance of Professor Gormanly. The final part of it we created a list of users that you can choose from and this is where they can post as that specific user.
 
